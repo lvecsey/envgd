@@ -28,6 +28,12 @@ To view the image:
 ```console
 feh --fullscreen signal.png
 ```
-
 ![Image of output](https://phrasep.com/~lvecsey/software/envgd/output_envgd.png)
 
+Also included is a gen_sindat which creates a sinusoidal wave.
+
+```console
+make signal3.png
+feh --fullscreen signal3.png
+```
+![Image of output](https://phrasep.com/~lvecsey/software/envgd/output_signal3.png)
